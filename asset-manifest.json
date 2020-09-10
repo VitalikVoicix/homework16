@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VitalikVoicix/homework16/static/css/main.2e9dedd1.chunk.css",
+    "main.js": "/VitalikVoicix/homework16/static/js/main.c2c9eeac.chunk.js",
+    "main.js.map": "/VitalikVoicix/homework16/static/js/main.c2c9eeac.chunk.js.map",
+    "runtime-main.js": "/VitalikVoicix/homework16/static/js/runtime-main.2d13279f.js",
+    "runtime-main.js.map": "/VitalikVoicix/homework16/static/js/runtime-main.2d13279f.js.map",
+    "static/js/2.f2abaf95.chunk.js": "/VitalikVoicix/homework16/static/js/2.f2abaf95.chunk.js",
+    "static/js/2.f2abaf95.chunk.js.map": "/VitalikVoicix/homework16/static/js/2.f2abaf95.chunk.js.map",
+    "index.html": "/VitalikVoicix/homework16/index.html",
+    "precache-manifest.93aa78f00d2f51e61ae9c94028c3e323.js": "/VitalikVoicix/homework16/precache-manifest.93aa78f00d2f51e61ae9c94028c3e323.js",
+    "service-worker.js": "/VitalikVoicix/homework16/service-worker.js",
+    "static/css/main.2e9dedd1.chunk.css.map": "/VitalikVoicix/homework16/static/css/main.2e9dedd1.chunk.css.map",
+    "static/js/2.f2abaf95.chunk.js.LICENSE.txt": "/VitalikVoicix/homework16/static/js/2.f2abaf95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d13279f.js",
+    "static/js/2.f2abaf95.chunk.js",
+    "static/css/main.2e9dedd1.chunk.css",
+    "static/js/main.c2c9eeac.chunk.js"
+  ]
+}
