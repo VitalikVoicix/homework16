@@ -48,7 +48,6 @@ class Main extends Component{
   state = {
     contacts: [...contacts],
     search: " ",
-    filter:male,
   };
    
   loadGenderImage(gender) {
@@ -100,5 +99,5 @@ class Main extends Component{
      )
    }
 }
-export default Main;
+export default Main
 
