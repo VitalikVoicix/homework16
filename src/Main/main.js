@@ -47,7 +47,7 @@ const contacts = [
 class Main extends Component{
   state = {
     contacts: [...contacts],
-    search: " ",
+    search: "",
   };
    
   loadGenderImage(gender) {
@@ -64,9 +64,9 @@ class Main extends Component{
      });
 
     this.setState({
-      contacts: [
+      contacts:[
         ...contacts.filter((el) => {
-          return (
+          return(
             el.firstName.toLowerCase().indexOf(e.target.value.toLowerCase()) > -1 ||
             el.lastName.toLowerCase().indexOf(e.target.value.toLowerCase()) >-1 ||
             el.phone.indexOf(e.target.value) >-1
@@ -91,7 +91,7 @@ class Main extends Component{
            lastName={contact.lastName}
            phone={contact.phone}
            gender={this.loadGenderImage(contact.gender)}
-          key={i}
+           key={i}
       />
       ))}
     </div>
